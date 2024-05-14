@@ -55,7 +55,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Pasta%20imagens/developer.gif?raw=true" width="470px" height="470px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:

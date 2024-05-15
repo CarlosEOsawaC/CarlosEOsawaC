@@ -46,7 +46,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 19 anos, moro em BH e estou aprendendo programação desde 2023. Atualmente sou <code>Aluno</code> no curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> . <br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 19 anos, moro em BH e estou aprendendo programação desde 2023. Atualmente sou <code>Aluno</code> no 3° período do curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> . <br />
 </div>
 
 -----
@@ -62,8 +62,7 @@
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
+- :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas.<br />
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />

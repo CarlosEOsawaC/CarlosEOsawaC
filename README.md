@@ -55,7 +55,7 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/developer.gif?raw=true" width="350px" height="320px"/>
+<img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/developer.gif?raw=true" width="200px" height="150px"/>
 </div>
 
 Sobre mim:

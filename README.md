@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Pasta%20imagens/headertech.jpg"/>
+<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/github-header-image.png"/>
 </div>
 
 -----
@@ -55,10 +55,10 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Pasta%20imagens/developer.gif?raw=true" width="320px" height="400px"/>
+<img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/developer.gif?raw=true" width="320px" height="400px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+Sobre mim:
 
 <div align="justify">
 <p> 

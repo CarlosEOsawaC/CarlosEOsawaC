@@ -20,9 +20,7 @@
 </td>
 <td><a href="https://wa.me/5531995715621" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/linkedin.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/discord.png?raw=true" width="50px" height="50px"/></a>
+<!--- <td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/linkedin.png?raw=true" width="50px" height="50px"/></a> -->
 </td>
 </tr>
 <tr>
@@ -44,7 +42,7 @@
 <img align="right" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/developer.gif?raw=true" width="200px" height="140px"/>
 </div>
 
-Sobre mim:
+ Meus interesses pessoais:
 
 <div align="justify">
 <p> 
@@ -60,7 +58,7 @@ Sobre mim:
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosEOsawaC&theme=github_dark"/>

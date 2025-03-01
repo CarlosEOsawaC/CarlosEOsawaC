@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 19 anos, moro em BH e estou aprendendo programação desde 2023. Atualmente sou <code>Aluno</code> no 3° período do curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> . <br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 19 anos, moro em BH e estou aprendendo programação desde 2023. Atualmente sou <code>Aluno</code> no 5° período do curso de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> . <br />
 </div>
 
 -----

@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://wa.me/5531995715621" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<!--- <td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/linkedin.png?raw=true" width="50px" height="50px"/></a> -->
+<td><a href="https://www.linkedin.com/in/carlos-eduardo-osawa-carvalho-b6ba42386/" target="_blank"><img src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>

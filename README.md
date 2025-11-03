@@ -45,7 +45,7 @@
 <div align="justify">
 <p> 
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas.<br />
-- :coffee: &nbsp; Veja alguns códigos que fiz em <code>Java</code> <a href="https://github.com/CarlosEOsawaC/POO" target="_blank">aqui</a>.<br />
+- :coffee: &nbsp; Veja alguns códigos que fiz em <code>Java</code> <a href="https://github.com/CarlosEOsawaC/Arquitetura-de-Aplicacoes-Web" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou tricolor carioca, torço para o <a href="https://www.fluminense.com.br/site/" target="_blank">Fluminense Football Club</a>. :red_circle::white_circle::green_circle:<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carlososawabr@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>

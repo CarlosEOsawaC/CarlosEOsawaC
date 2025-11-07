@@ -2,8 +2,8 @@
 
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/github-header-image.png"/>
+<div align="center">
+<img alt="Header" src="https://github.com/CarlosEOsawaC/CarlosEOsawaC/blob/main/Imagens%20Github/github-header-image.png"/>
 </div>
 
 -----

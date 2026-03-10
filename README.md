@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e estou aprendendo programação desde 2023. Atualmente sou <code>Aluno</code> no 6° período do curso Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> . <br />
+<i><b>Olá</b> :wave:, sou o <code>Carlos</code>, tenho 21 anos, moro em BH e estou aprendendo programação desde 2023. Sou graduado em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>, e atualmente sou <code>aluno</code> no 7° período do curso Ciência da Computação também na <code>Newton Paiva</code>. <br />
 </div>
 
 -----
@@ -44,7 +44,7 @@
 
 <div align="justify">
 <p> 
-- :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas.<br />
+- :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou graduado em <code>ADS</code> e aluno de <code>Ciência da Computação</code>.<br />
 - :coffee: &nbsp; Veja alguns códigos que fiz em <code>Java</code> <a href="https://github.com/CarlosEOsawaC/Arquitetura-de-Aplicacoes-Web" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou tricolor carioca, torço para o <a href="https://www.fluminense.com.br/site/" target="_blank">Fluminense Football Club</a>. :red_circle::white_circle::green_circle:<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carlososawabr@gmail.com" target="_blank">e-mail</a> pessoal.<br />
